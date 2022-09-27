@@ -1,0 +1,56 @@
+[
+   {
+      "id": 1,
+      "name": "Luisiana",
+      "surname": "Reyna",
+      "email": "yohannagraciano@gmail.com",
+      "password": "$2a$12$NxGfZ5Gnitr/pmCw9ddMpeehzw6ffv7b2UGL7a/dFrjoobAhciTW2",
+      "rol": "admin",
+      "avatar": "avatar.png"
+   },
+   {
+      "id": 2,
+      "name": "caleb",
+      "surname": "romanos",
+      "email": "calebromanoss@gmail.com",
+      "password": "$2a$12$gZteYxbiONKT5GvBnLvEd.rzpD9j4BhGBzw2UU52ZTv0m3lrsqAKS",
+      "rol": "user",
+      "avatar": "avatar.png"
+   },
+   {
+      "id": 3,
+      "name": "johanna",
+      "surname": "graciano",
+      "email": "yohannagracianooo@gmail.com",
+      "password": "$2a$12$J/YZFduudZfbUb.cSOzgSOB9S5JLkRetglpK9VLEkOHhIyytn2d86",
+      "rol": "admin",
+      "avatar": "avatar.png"
+   },
+   {
+      "id": 4,
+      "name": "Ringo",
+      "surname": "Romanos",
+      "email": "calelu4@gmail.com",
+      "password": "$2a$12$xB.bX45g3YxYEvvPGNG1r.KHfn6dytcZ7UoB1RwhhNQpkQFHwDOtO",
+      "rol": "user",
+      "avatar": "avatar.png"
+   },
+   {
+      "id": 5,
+      "name": "Emanuel",
+      "surname": "Arroyos",
+      "email": "emaarroyos@gmail.com",
+      "password": "$2a$12$NpQ9n9PNgZA7pcKoU3lJEuLfi75WEPMeIA4RnoxD26fNNqqF9sTta",
+      "rol": "admin",
+      "avatar": "avatar.png"
+   },
+   {
+      "id": 6,
+      "name": "Marta",
+      "surname": "Graciano",
+      "email": "martagraciano@gmail.com",
+      "password": "$2a$12$7SVJ7CZn3goSlmRhOZE21eYfBapQe1jG2QMxVqDkEsJD/mROkmCHq",
+      "rol": "user",
+      "avatar": "avatar.png"
+   }
+]
